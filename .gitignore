@@ -1,0 +1,11 @@
+env/
+venv/
+.eggs/
+.ropeproject/
+*.pyc
+*.db
+*.swp
+*.cache
+.idea/
+.DS_Store
+*.log
